@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "happy birthday",
+            "invocationName": "kyyba happy birthday",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",

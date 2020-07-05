@@ -1,7 +1,7 @@
 module.exports = {
     en: {
         translation: {
-            WELCOME_MSG: `Welcome to Happy Birthday. Let's have some fun with your birthday! `,
+            WELCOME_MSG: `Welcome to Kyyba Happy Birthday. Let's have some fun with your birthday! `,
             WELCOME_BACK_MSG: 'Welcome back! ',
             REJECTED_MSG: 'No problem. Please say the date again so I can get it right.',
             DAYS_LEFT_MSG: `There's {{count}} day left `,

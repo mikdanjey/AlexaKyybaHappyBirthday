@@ -1,12 +1,12 @@
 {
-    "name": "happy-birthday",
+    "name": "kyyba-happy-birthday",
     "version": "0.4.0",
-    "description": "happy birthday skill",
+    "description": "kyyba happy birthday skill",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Amazon Alexa",
+    "author": "Mikdanjey",
     "license": "ISC",
     "dependencies": {
         "ask-sdk-core": "^2.8.0",
