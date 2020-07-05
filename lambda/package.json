@@ -9,11 +9,11 @@
     "author": "Amazon Alexa",
     "license": "ISC",
     "dependencies": {
-        "ask-sdk-core": "^2.7.0",
-        "ask-sdk-model": "^1.18.0",
-        "i18next": "^15.0.5",
-        "ask-sdk-s3-persistence-adapter": "^2.7.0",
-        "ask-sdk-dynamodb-persistence-adapter": "^2.7.0",
-        "moment-timezone": "^0.5.23"
+        "ask-sdk-core": "^2.8.0",
+        "ask-sdk-model": "^1.28.0",
+        "i18next": "^19.5.4",
+        "ask-sdk-s3-persistence-adapter": "^2.8.0",
+        "ask-sdk-dynamodb-persistence-adapter": "^2.8.0",
+        "moment-timezone": "^0.5.31"
     }
 }
